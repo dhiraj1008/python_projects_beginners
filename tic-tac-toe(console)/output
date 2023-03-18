@@ -1,0 +1,40 @@
+C:\Users\Dhiraj\anaconda3\python.exe C:/Users/Dhiraj/Videos/Python_Beginner_projects/tic-tac-toe(console)/game.py
+| 0 | 1 | 2 |
+| 3 | 4 | 5 |
+| 6 | 7 | 8 |
+x's turn.Input move (0-8)2
+{[0->1st box ] [1->2nd box] [2->3rd box] [3->4th box] [4->5th box] [5->6th box] [6->7th box] [7->8th box]}
+ x makes a move to the square 2
+|   |   | x |
+|   |   |   |
+|   |   |   |
+
+{[0->1st box ] [1->2nd box] [2->3rd box] [3->4th box] [4->5th box] [5->6th box] [6->7th box] [7->8th box]}
+ o makes a move to the square 1
+|   | o | x |
+|   |   |   |
+|   |   |   |
+
+x's turn.Input move (0-8)4
+{[0->1st box ] [1->2nd box] [2->3rd box] [3->4th box] [4->5th box] [5->6th box] [6->7th box] [7->8th box]}
+ x makes a move to the square 4
+|   | o | x |
+|   | x |   |
+|   |   |   |
+
+{[0->1st box ] [1->2nd box] [2->3rd box] [3->4th box] [4->5th box] [5->6th box] [6->7th box] [7->8th box]}
+ o makes a move to the square 7
+|   | o | x |
+|   | x |   |
+|   | o |   |
+
+x's turn.Input move (0-8)6
+{[0->1st box ] [1->2nd box] [2->3rd box] [3->4th box] [4->5th box] [5->6th box] [6->7th box] [7->8th box]}
+ x makes a move to the square 6
+|   | o | x |
+|   | x |   |
+| x | o |   |
+
+x wins :)
+
+Process finished with exit code 0

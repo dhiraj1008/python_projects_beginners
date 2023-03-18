@@ -1,0 +1,16 @@
+
+def main():
+    dict1={
+        'hi':'a way of greeting',
+        'eye':'organ of seeing',
+        'earth':'a planet in space'
+         }
+    while True:
+        word = input("enter a word :\n")
+        if word=="":
+            break
+        elif word in dict1:
+            print(word,":",dict1[word])
+    
+
+main()
